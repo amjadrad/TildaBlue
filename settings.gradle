@@ -1,0 +1,3 @@
+include ':tildablue'
+include ':app'
+rootProject.name = "TildaBlue"
